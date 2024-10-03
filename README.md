@@ -1,6 +1,8 @@
 **OCI JET VDOM Vision Service Integration**
 
 **Introduction**
+
+
 The Oracle JET VDOM application allows users to provide input to the OCI Vision service, consumes the response, and displays it in the UI application.
 This code for Oracle JET Virtual DOM Architecture based applications.
 This project is developed for use with the Oracle JavaScript Extension Toolkit(JET) coding environment.
