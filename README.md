@@ -1,14 +1,11 @@
-# Oracle JET (VDOM) and OCI VISION
+# Build an Application That Can “See” and “Understand” Visual Data.
 
 [![License: UPL](https://img.shields.io/badge/license-UPL-green)](https://img.shields.io/badge/license-UPL-green) [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=oracle-devrel_test)](https://sonarcloud.io/dashboard?id=oracle-devrel_test)
 
 
 
 ## Introduction
-Oracle JET using the Virtual DOM (VDOM) architecture and integrate OCI Vision services for enhanced functionality.
-Oracle JET VDOM Vision service response application
-This code for Oracle JET Virtual DOM Architecture based applications.
-This project is developed for use with the Oracle JavaScript Extension Toolkit(JET) coding environment.
+Oracle JET uses the Virtual DOM (VDOM) architecture and integrates OCI Vision services for enhanced functionality. The Oracle JET VDOM UI application consumes responses from the OCI Vision service. This code is for Oracle JET applications based on the Virtual DOM architecture. This project is developed for use with the Oracle JavaScript Extension Toolkit (JET) coding environment.
 
 
 ## Getting Started
