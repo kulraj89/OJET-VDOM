@@ -13,7 +13,7 @@ This project is developed for use with the Oracle JavaScript Extension Toolkit(J
 
 ## Getting Started
 
-There are three part of the application . Part 3 code is in this git .
+There are three parts of the application. The code for part 3 is in this repository.
 
 • Part 1: Upload  images to OCI bucket.
 
@@ -59,11 +59,15 @@ Note: image courtesy of pixabay.com
 
 
 
-## Notes/Issues
-MISSING
+## Contributors
+Author: Kulraj Singh Chouhan
+Collaborators: NA
+Last Review: Sept 2024
 
-## URLs
+## References
 [oracle-jet-vdom-and-oci-vision](https://blogs.oracle.com/developers/post/oracle-jet-vdom-and-oci-vision)
+
+[OCI Vision ](https://docs.oracle.com/en/solutions/ai-vision-extract-data/index.html#GUID-FA774176-6223-4E78-89D0-887BB6BCA4E4)
 
 ## Contributing
 <!-- If your project has specific contribution requirements, update the
