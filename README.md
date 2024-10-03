@@ -20,7 +20,9 @@ Additional Resources
 **References:**
 
 •	Oracle VDOM JET : https://github.com/oracle/oraclejet
+
 •	OCI SDK - Open-Source GitHub Repository
+
 •	OCI AI Vision Service Documentation
 
 
