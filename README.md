@@ -1,4 +1,4 @@
-OCI JET VDOM Vision Service Integration
+**OCI JET VDOM Vision Service Integration**
 
 
 Oracle JET VDOM Vision service response app
@@ -6,7 +6,7 @@ This code for Oracle JET Virtual DOM Architecture based applications.
 
 This project is developed for use with the Oracle JavaScript Extension Toolkit(JET) coding environment.
 
-Prerequisites
+**Prerequisites**
 JET v16.0.x or higher is required for this project to work. Using the current production release is always recommended.
 Nodejs v18 LTS or higher LTS is required. Nodejs nightly(Current) releases may not work correctly.
 Installation
@@ -17,16 +17,16 @@ run npx ojet serve
 Additional Resources
 
 
-References:
+**References:**
 Oracle VDOM JET :https://github.com/oracle/oraclejet
 OCI SDK - Open Source GitHub Repository
 OCI AI Vision Service Documentation
 
-Contributors:
+**Contributors:**
 Author: Kulraj Singh Chouhan
 Collaborators: N/A
 Last Reviewed: Sept 2024
 
-Contributing:
+**Contributing:**
 This project is open-source. Fork the repository and submit a pull request to contribute.
 
