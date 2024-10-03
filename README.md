@@ -2,7 +2,7 @@
 
 [![License: UPL](https://img.shields.io/badge/license-UPL-green)](https://img.shields.io/badge/license-UPL-green) [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=oracle-devrel_test)](https://sonarcloud.io/dashboard?id=oracle-devrel_test)
 
-## THIS IS A NEW, BLANK REPO THAT IS NOT READY FOR USE YET.  PLEASE CHECK BACK SOON!
+
 
 ## Introduction
 Oracle JET using the Virtual DOM (VDOM) architecture and integrate OCI Vision services for enhanced functionality.
@@ -26,16 +26,18 @@ There are three part of the application . Part 3 code is in this git .
 ![OCI bucket](https://github.com/user-attachments/assets/d9e29dce-2088-4dc3-9b20-c3b65c0f74e5)
 
     
-• Part 2: Integration of OCI Java SDK with OCI Vision service to handle image processing within a Spring Boot application.
+• Part 2: Integration of OCI Java SDK with OCI Vision service to handle image processing within a Spring Boot application. 
 
-    It is mentioned in https://github.com/oracle-devrel/oci-sdk-java-samples/tree/main/usecases/ai-vision-service-integration
-    
+  •	Clone the repository below and follow its instructions to run the code locally.
+  
+[oci-sdk-java-samples](https://github.com/user-attachments/assets/c12954b7-56b5-4c86-b680-2625364ed1fb)
+
 
 • Part 3: Developing an Oracle JET (VDOM) application to consume and display the results from OCI Vision Service.
-
-    Clone the this repository and run below run the Virtual DOM application in the terminal window, change to the JET-Virtual-DOM-app directory and run the app.
-             
-            •	npx ojet serve
+	Clone the repository below and execute the command below in the local terminal.
+    
+        
+                    npx ojet serve
 **The final application should look as follows on a localhost server:**
 Our blog will feature a one-page application with Object Storage Details and OCI Vision Result sections. In the Object Storage Details section, users enter Tenancy Region and Bucket Name. After validating the inputs, the application fetches the images stored in the provided object storage, which are then displayed in object lists. Upon submission, the OCI Vision API analyzes the selected image, displaying both the object and text in the OCI Vision Result section.
 
@@ -46,9 +48,13 @@ Note: image courtesy of pixabay.com
 
 ### Prerequisites
 
+
 •	Nodejs
+
 •	Java 17
+
 •	Integrated Development Environment (IDE)
+
 •	Oracle Cloud Account (free oracle cloud services should be sufficient)
 
 
@@ -57,7 +63,7 @@ Note: image courtesy of pixabay.com
 MISSING
 
 ## URLs
-* Nothing at this time
+[oracle-jet-vdom-and-oci-vision](https://blogs.oracle.com/developers/post/oracle-jet-vdom-and-oci-vision)
 
 ## Contributing
 <!-- If your project has specific contribution requirements, update the
