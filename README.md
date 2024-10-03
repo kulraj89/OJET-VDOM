@@ -25,7 +25,7 @@ There are three parts of the application. The code for part 3 is in this reposit
     
 • Part 2: Integration of OCI Java SDK with OCI Vision service to handle image processing within a Spring Boot application. 
 
-  •	Clone the repository below and follow its instructions to run the code locally.
+  •	Clone the repository below and follow its instructions mentioned in part 2 section of [oracle-jet-vdom-and-oci-vision](https://blogs.oracle.com/developers/post/oracle-jet-vdom-and-oci-vision)  to run the code locally.
   
 [oci-sdk-java-samples](https://github.com/user-attachments/assets/c12954b7-56b5-4c86-b680-2625364ed1fb)
 
